@@ -338,7 +338,3 @@ show slave status\G
 
 설정을 완료하게 되면 이제 Master container에서 복제설정한 DB에 데이터가 들어가거나 삭제되는경우 Slave DB에도 바로 적용되는 것을 확인 할 수 있습니다.
 
-
-
-# DB_Master-Slave_dockercompose
-# DB_Master-Slave_dockercompose
